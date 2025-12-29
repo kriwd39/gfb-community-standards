@@ -29,6 +29,10 @@ A medium‑sized, rustic, and well‑balanced hound, built for endurance and agi
 - **Length**: Medium, with eyebrows and a beard that are typical but not excessive.
 - **Color**: Wheaten or fawn, in shades from light wheaten to a rich red‑gold. Any white markings should be minimal.
 
+### Color Interpretation
+
+The ideal fawn color ranges from a light wheaten to a rich red‑gold. Washed‑out gray or mahogany shades are undesirable.
+
 ## Movement
 
 Free, effortless, and ground‑covering. The gait should be balanced and efficient, reflecting the breed’s stamina and agility.
